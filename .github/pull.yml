@@ -1,6 +1,6 @@
 version: "1"
 rules:
   - base: staging
-    upstream: null:staging
+    upstream: benawad:staging
     mergeMethod: merge
     mergeUnstable: true
